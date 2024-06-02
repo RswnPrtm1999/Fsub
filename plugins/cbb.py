@@ -4,7 +4,7 @@
 
 from bot import Bot
 from config import OWNER
-from Raj import Data  # changed import statement
+from Rea import Data  # changed import statement
 from pyrogram import filters
 from pyrogram.errors import MessageNotModified
 from pyrogram.types import CallbackQuery, InlineKeyboardMarkup, Message
