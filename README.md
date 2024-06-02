@@ -87,7 +87,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/slut_id) Untuk Dukungan/Bantuan [Raj](https://www.telegram.dog/marwan_raju) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/kaumhasrat69) Untuk Dukungan/Bantuan [Raj](https://www.telegram.dog/marwan_raju) untuk info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
