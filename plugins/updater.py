@@ -9,7 +9,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 from config import ADMINS, LOGGER
 
-UPSTREAM_REPO = "https://github.com/alteregocodes/4tombol"
+UPSTREAM_REPO = "https://github.com/Raj-UseRobot/Raj-Fsub"
 
 
 def gen_chlog(repo, diff):
@@ -68,7 +68,7 @@ async def update_bot(_, message: Message):
         return
 
     await msg.edit(
-        f"Bot sudah diperbarui dari @AlteregoNetwork ^^)",
+        f"Bot sudah diperbarui dari @kaumhasrat69 ^^)",
         disable_web_page_preview=True,
     )
 

@@ -22,8 +22,6 @@ class Data:
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-Promo TelePrem di </b><a href='https://t.me/AlteregoNetwork'><b>AlteregoNetwork</b></a>
-
 
 """
 
@@ -54,7 +52,6 @@ Promo TelePrem di </b><a href='https://t.me/AlteregoNetwork'><b>AlteregoNetwork<
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
 
 
- • Ingin membuat Bot seperti ini chat @SayaKyu
- • Promo Telegram Premium di @AlteregoNetwork
-👨‍💻 Develoved by </b><a href='https://t.me/AlteregoNetwork'>AlteregoNetwork</a>
+ • Ingin membuat Bot seperti ini chat @marwan_raju
+👨‍💻 Develoved by </b><a href='https://t.me/kaumhasrat69'>kaumhasrat69</a>
 """

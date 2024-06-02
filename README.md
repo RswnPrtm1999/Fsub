@@ -2,7 +2,7 @@
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 
-<img src="https://kutmut.my.id/logop.png">
+<img src="https://telegra.ph/file/18b0b8ed757055877f4dc.jpg">
 
 
 ### Setup Repo ini join 4 ch ngentod
@@ -15,14 +15,14 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 ### Installation
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://kutmut.my.id/deploy)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)</br>
 
 
 
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/altercodes/Fsubs
+git clone https://github.com/Raj-UseRobot/Raj-Fsub
 ````
 ````bash
 cd Fsubs
@@ -87,7 +87,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/slut_id) Untuk Dukungan/Bantuan [Kyu](https://www.telegram.dog/sayakyu) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/slut_id) Untuk Dukungan/Bantuan [Raj](https://www.telegram.dog/marwan_raju) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
