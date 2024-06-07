@@ -68,7 +68,7 @@ async def update_bot(_, message: Message):
         return
 
     await msg.edit(
-        f"Bot sudah diperbarui dari @AlteregoNetwork ^^)",
+        f"Bot sudah diperbarui dari @kaumhasrat69 ^^)",
         disable_web_page_preview=True,
     )
 
